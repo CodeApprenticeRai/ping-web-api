@@ -1,0 +1,25 @@
+{
+  "name": "ping-web-api",
+  "version": "1.0.0",
+  "description": "Web API for our ping mobile app ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeApprenticeRai/ping-web-api.git"
+  },
+  "author": "Tare Gaskin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeApprenticeRai/ping-web-api/issues"
+  },
+  "homepage": "https://github.com/CodeApprenticeRai/ping-web-api#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-generator": "^4.16.0",
+    "mongodb": "^3.1.6",
+    "mongoose": "^5.2.14"
+  }
+}
